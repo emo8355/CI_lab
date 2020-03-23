@@ -17,9 +17,4 @@ const math = (num1, num2, method) => {
 	}
 };
 
-// const input1 = "11",
-// 	input2 = 22,
-// 	method = "times";
-
-// console.log(math(input1, input2, method));
 module.exports = { math };
