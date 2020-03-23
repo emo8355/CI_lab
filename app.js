@@ -12,14 +12,9 @@ const math = (num1, num2, method) => {
 		if (method == "times") {
 			return num1 * num2;
 		} else if (method == "add") {
-			return num1 + num2;
+			return num1 + num2;;;;
 		}
 	}
 };
 
-// const input1 = "11",
-// 	input2 = 22,
-// 	method = "times";
-
-// console.log(math(input1, input2, method));
 module.exports = { math };
