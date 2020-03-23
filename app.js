@@ -1,5 +1,5 @@
 const math = (num1, num2, method) => {
-	method_list = ["add", "minus", "times", "divide"];
+	method_list = ["add", "minus", "divide"];
 	if (
 		num1 !== Number(num1) ||
 		num2 !== Number(num2) ||
