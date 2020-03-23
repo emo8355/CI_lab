@@ -18,6 +18,4 @@ jobs:
         run:
           npm install
           npm test
-      - name: ESLint Action
-        uses: hallee/eslint-action@1.0.1
   
