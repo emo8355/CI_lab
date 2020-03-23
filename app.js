@@ -12,7 +12,7 @@ const math = (num1, num2, method) => {
 		if (method == "times") {
 			return num1 * num2;
 		} else if (method == "add") {
-			return num1 + num2;;;;
+			return num1 + num2;
 		}
 	}
 };
